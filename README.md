@@ -3,5 +3,7 @@
 	
 	I originally created  this in 1997 and submitted it to Torri's Delphi
 	pages.  Shortly after it was picked up by Bob Dalton from Mustang Software
-	who added some more functionality
+	who added some more functionality.
+	
+	This is free software
 	
